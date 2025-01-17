@@ -1,2 +1,2 @@
 # not-a-creative-color
-green. 
+asked a friend what to make a website for. she said the color green
