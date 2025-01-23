@@ -1,0 +1,9 @@
+  body {
+    font-family: "Comic Sans MS";
+    text-align: center;
+    background:green
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+  }
